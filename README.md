@@ -1,1 +1,0 @@
-# Textual-Visual-Logic-Challenge
