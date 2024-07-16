@@ -95,4 +95,4 @@ Here, `recall` represents the ratio of detected objects in the generated image i
 
 
 ## License
-Under review by the Governance, Risk, and Compliance Department.
+Under review by Intel Governance, Risk, and Compliance Department.
