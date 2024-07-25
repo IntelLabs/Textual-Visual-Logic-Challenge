@@ -45,7 +45,7 @@ To tackle these complexities, we collect the Textual-Visual Logic dataset, desig
   </div>
 
 ## Dataset
-[Download Link]([https://](https://drive.google.com/drive/folders/1lkSXINyt5KnKY5iThsQzSN5UZoki86Vc?usp=sharing))
+[Download Link]([https://drive.google.com/drive/folders/1lkSXINyt5KnKY5iThsQzSN5UZoki86Vc?usp=sharing])
 
 To better evaluate understanding and reasoning in the text-to-image generation task, we have compiled a novel dataset comprising 15,213 samples. 
 Each sample includes a long, content-rich text prompt and its corresponding images. 
