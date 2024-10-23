@@ -3,8 +3,9 @@
 Our paper "[Textual-Visual Logic Challenge: Understanding and Reasoning in Text-to-Image Generation](https://eccv.ecva.net/)" accepted at ECCV 2024. If you find the code useful, please cite the following paper.
 
 ```bibtex
-@inproceedings{xiong2024textual,
+@article{xiongtextual,
   title={Textual-Visual Logic Challenge: Understanding and Reasoning in Text-to-Image Generation},
+  author={Xiong, Peixi and Kozuch, Michael and Jain, Nilesh}
 }
 ```
 
